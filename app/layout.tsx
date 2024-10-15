@@ -10,7 +10,7 @@ export const dynamic = "force-dynamic";
 export const metadata: Metadata = {
 	metadataBase: new URL(`${process.env.NEXT_PUBLIC_SERVER_URL}`),
 	applicationName: "Fractal",
-	keywords: ["nextjs", "reactjs", "ecommerce", "sylvaincodes"],
+	keywords: ["nextjs", "reactjs", "ecommerce", "emmanuelmichoti"],
 	authors: [{ name: "sylvaincodes", url: "https://github.com/sylvaincodes" }],
 	publisher: "vercel",
 

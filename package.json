@@ -36,6 +36,9 @@
     "react-dom": "^18",
     "react-hook-form": "^7.53.0",
     "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.3.0",
+    "react-medium-image-zoom": "^5.2.10",
+    "react-number-format": "^5.4.2",
     "react-redux": "^9.1.2",
     "react-spinners": "^0.14.1",
     "redux": "^5.0.1",
@@ -46,15 +49,23 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
+    "@babel/core": "^7.25.8",
+    "@babel/plugin-transform-modules-commonjs": "^7.25.7",
+    "@babel/preset-env": "^7.25.8",
+    "@babel/preset-react": "^7.25.7",
+    "@babel/preset-typescript": "^7.25.7",
     "@eslint/js": "^9.12.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "cross-env": "^7.0.3",
     "eslint": "^8",
     "eslint-config-next": "14.2.15",
     "eslint-plugin-react": "^7.37.1",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5"
+    "ts-node": "^10.9.2",
+    "typescript": "^5",
+    "typescript-eslint": "^8.9.0"
   }
 }

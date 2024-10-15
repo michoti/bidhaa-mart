@@ -43,7 +43,7 @@ export default function HomeSlide() {
         ) : (
           <Swiper
             autoplay={{
-              delay: 3000,
+              delay: 10000,
               disableOnInteraction: false,
             }}
             spaceBetween={50}
