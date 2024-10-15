@@ -2,8 +2,8 @@ import * as React from "react";
 import "./globals.css";
 import Providers from "@/providers";
 import { cn } from "@/lib/utils";
-import { font } from "./fonts";
 import { Metadata } from "next";
+import { font } from "./fonts";
 
 export const dynamic = "force-dynamic";
 
